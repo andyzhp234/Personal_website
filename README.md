@@ -2,4 +2,4 @@
 
 This is a readme File for my personal website.
 
-Some changes made Remotely
+Some changes made Locally
